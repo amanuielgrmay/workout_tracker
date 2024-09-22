@@ -1,0 +1,18 @@
+.add-workout-btn:hover,
+.workout-history-btn:hover,
+.back-home-btn:hover,
+.submit-btn:hover,
+.add-exercise-btn:hover,
+.close-btn:hover {
+  background-color: #45a049;
+}
+
+.exercise-list {
+  list-style-type: none;
+  padding: 0;
+  color: black;
+}
+
+.exercise-list li {
+  margin: 5px 0;
+}
